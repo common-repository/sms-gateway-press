@@ -1,0 +1,11 @@
+li#toplevel_page_sms-gateway-press .wp-menu-image::before {
+	content: ' ';
+	background-image: url("../../logo.svg");
+	background-clip: content-box;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	width: 20px;
+	height: 20px;
+	padding: 7px 0;
+}

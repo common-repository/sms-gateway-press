@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^3.0",
+		"phpcompatibility/php-compatibility": "*",
+        "thenlabs/pyramidal-tests": "2.0.x-dev",
+		"brain/monkey": "^2.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
